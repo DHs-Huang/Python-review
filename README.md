@@ -50,8 +50,8 @@ Python重要觀念整理，包含物件導向、裝飾器等議題，方便複�
 * Python 3.11
   * 比上一个版本快60% (The most important one)
   * 改進的錯誤提示
-  * self也可以被類別提示 (from __future__ import annotations)
+  * self也可以被類別提示 (from \_\_future\_\_ import annotations)
   * Typedict in typing可建立非必要元素
 
 ### Python神乎其技
-* [Underscore多種用法 (not yet)]()
+* [Underscore多種用法](Advanced-issues/Underline_illustration.ipynb)
