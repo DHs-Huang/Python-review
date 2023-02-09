@@ -1,5 +1,5 @@
 # Python-code
-Python重要觀念整理，包含物件導向、裝飾器等議題，方便複習以及銜接後續模組應用
+Python重要觀念整理，包含物件導向、裝飾器等議題，方便複習以及銜接後續模組應用  
 也同時探討進階議題，包含各個Python版本更新的重要內容，以及各種Pythonic的技巧
 ## 觀念整理
 ### [物件導向 (Object Oriented Programming)觀念整理](OOP/OOP_concepts_Python.ipynb)
