@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DHs-Huang/Python-code/HEAD?labpath=tree)
 # Python-code
 Python重要觀念整理，包含物件導向、裝飾器等議題，方便複習以及銜接後續模組應用  
 也同時探討進階議題，包含各個Python版本更新的重要內容，以及各種Pythonic的技巧
