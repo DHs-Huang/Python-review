@@ -4,8 +4,7 @@ Python重要觀念整理，包含物件導向、裝飾器等議題，方便複�
 ## 觀念整理
 ### [物件導向 (Object Oriented Programming)觀念整理](OOP/OOP_concepts_Python.ipynb)
 * 繼承 (inheritance)
-* 封裝 (encapsulation)  
-  [OOP property uses for encapsulation](OOP/OOP_property.ipynb)
+* 封裝 (encapsulation) &rarr; [OOP property uses for encapsulation](OOP/OOP_property.ipynb)
 * 多型 (polymorphism)
 * [Class methods介紹](OOP/OPP_class_methods.ipynb)
 
