@@ -1,2 +1,2 @@
-jupyter_contrib_nbextensions
+conda install -c conda-forge jupyter_contrib_nbextensions
 RISE
