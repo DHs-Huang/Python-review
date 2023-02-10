@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DHs-Huang/Python-code/HEAD?urlpath=tree)
 # Python-code
 Python重要觀念整理，包含物件導向、裝飾器等議題，方便複習以及銜接後續模組應用  
-也同時探討進階議題，包含各個Python版本更新的重要內容，以及各種Pythonic的技巧
+也同時探討進階議題，包含各個Python版本更新的重要內容以及各種Pythonic的技巧等內容
 ## 觀念整理
 ### [物件導向 (Object Oriented Programming)觀念整理](OOP/OOP_concepts_Python.ipynb)
 * 繼承 (inheritance)
@@ -53,5 +53,5 @@ Python重要觀念整理，包含物件導向、裝飾器等議題，方便複�
   * self也可以被類別提示 (from \_\_future\_\_ import annotations)
   * Typedict in typing可建立非必要元素
 
-### Python神乎其技
+### Pythonic
 * [Underscore多種用法](Advanced-issues/Underline_illustration.ipynb)
