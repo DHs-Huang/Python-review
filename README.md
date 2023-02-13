@@ -55,3 +55,8 @@ Python重要觀念整理，包含物件導向、裝飾器等議題，方便複�
 
 ### Pythonic
 * [Underscore多種用法](Advanced-issues/Underline_illustration.ipynb)
+
+# References
+* https://docs.python.org/3/
+* https://haosquare.com/
+* https://myapollo.com.tw/
