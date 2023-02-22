@@ -10,7 +10,7 @@ Python重要觀念整理，包含物件導向、裝飾器等議題，方便複�
 * 多型 (polymorphism)
 * [Class methods介紹](OOP/OPP_class_methods.ipynb)
 
-### [裝飾器 (Decorator)觀念整理](Decorator.ipynb)
+### [裝飾器 (Decorator)觀念整理](Advanced-issues/Decorator.ipynb)
 
 ## 進階議題 
 ### [Python版本更新](Advanced-issues/Add_new_features.ipynb)
